@@ -1,4 +1,4 @@
-# Bandit Level 0
+# Bandit Level 0 → Level 1
 
 ## What the level wanted
 
